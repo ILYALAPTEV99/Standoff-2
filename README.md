@@ -40,6 +40,7 @@
         <footer>
             <a href="#start" style="color:white;font-size:40px;font-family:sant-serif;">В начало</a>
             <p style="font-family:sant-serif;font-size:40px;">Teл:7 953 729 00 10</p>
+            <a href="https://www.instagram.com/ilya_laptev99/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"white="50px"height="50px"/>
         </footer>
     </body>
 </html>
