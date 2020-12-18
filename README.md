@@ -9,11 +9,11 @@
         </header>
         <main>
             <img src="https://gamecaste.ru/wp-content/uploads/2019/11/%D0%A7%D0%98%D0%A2-%D0%9C%D0%9E%D0%94%D0%AB-%D0%94%D0%9B%D0%AF-STANDOFF-2.jpg"width="1000px"/>
-        <h1 style="text-align:center;font-family:sant-serif;" id="cvbn">Фишки</h1>
-        <h1 style="text-align:center;font-family:sant-serif;" >Смоки на карте:Sanstone</h1>
+        <h1 style="text-align:center;font-family:sant-serif;color:white;" id="cvbn">Фишки</h1>
+        <h1 style="text-align:center;font-family:sant-serif;color:white;" >Смоки на карте:<i><b>Sanstone</b></i></h1>
         <img src="https://camo.githubusercontent.com/fc953950d1701feb00ce60487732a8c90324d97e49d4d2a839ada6406028f1a9/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f6765742d7a656e5f646f632f313533353130332f7075625f3563663831393337616637653333303061666466666561325f3563666235616162333033336165303061663030626639392f7363616c655f31323030"width="1000px"/>
         <img src="https://avatars.mds.yandex.net/get-zen_doc/1887828/pub_5cf81937af7e3300afdffea2_5cfb5cbb27a06000affd50dd/scale_1200"width="1000px"/>
-        <h1 style="text-align:center;font-family:sant-serif;" id="hjk">Трейд<br/>Нажми на картинку ниже</h1>
+        <h1 style="text-align:center;font-family:sant-serif;color:white;" id="hjk">Трейд<br/>Нажми на картинку ниже</h1>
         <a href="https://www.youtube.com/watch?v=ftTXCkx_sMo"> <img src="https://clube.bz/__vi__2-WPntjm7dE__hqdefault.jpg" width="1000px"/></a>
         <table>
            <table style="border:1px solid indigo;border-collapse:collapse;">
