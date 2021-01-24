@@ -32,3 +32,11 @@ main img {
 .i {
     color: grey;
 }
+
+.fig {
+    text-align: center;
+}
+
+.center-img {
+  margin: 110px;
+}
